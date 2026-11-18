@@ -26,9 +26,13 @@
     margin: 20px auto;
 }
 
-.main >button {
+.main >button { /* можно .btn (для примера оставил так)*/
     display: block;
     margin: 20px auto;
+}
+
+.btn {
+    
 }
 
 .right {
